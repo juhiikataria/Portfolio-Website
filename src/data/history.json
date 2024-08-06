@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "iQuadra Information Services LLC.",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": [
+      "Utilized LoRA techniques to fine-tune language models, resulting in enhanced performance",
+      "Technical Skills: Generative AI, Peft Finetuning, Quality Improvement",
+      "Soft Skills: Communication, Teamwork, Presentation Skill"
+    ],
+    "imageSrc": "history/iquadra-squarelogo-1441799478872.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "Oasis Infobyte",
+    "startDate": "Nov, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Performed tasks including Iris Flower Classification and Unemployment Analysis with Python",
+      "Developed projects like Car Prediction with Machine Learning and Email Spam Detection",
+      "Technical Skills: Python, Machine Learning"
+    ],
+    "imageSrc": "history/oasis_infobyte_logo.png"
+  },
+  {
+    "certification": "AWS Cloud Practitioner",
+    "issuedBy": "Amazon",
+    "startDate": "Aug, 2023",
+    "endDate": "Current",
+    "imageSrc": "history/aws.png"
+  },
+  {
+    "certification": "Google Cloud Digital Leader",
+    "issuedBy": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Current",
+    "imageSrc": "history/cloud-digital-leader-certification.png"
+  }
+]

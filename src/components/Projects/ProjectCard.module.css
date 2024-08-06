@@ -1,0 +1,93 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  padding: 18px 24px;
+  max-width: 345px; 
+  height: 340px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0; 
+}
+
+.description {
+  margin-top: 6px;
+  font-size: 1rem;
+  font-weight: 200;
+  margin-bottom: 14px;
+}
+
+.skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+  padding: 0; 
+  margin-bottom: 14px;
+}
+
+.skill {
+  position: relative; 
+}
+
+.skillImage {
+  width: 25px;
+  height: 25px; 
+  border-radius: 50%;
+}
+
+.tooltip {
+  position: absolute;
+  bottom: 125%; 
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  white-space: nowrap;
+  font-size: 0.75rem;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease;
+}
+
+.skill:hover .tooltip {
+  opacity: 1;
+  visibility: visible;
+}
+
+.links {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: auto;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 1rem;
+  font-weight: 300;
+  border-radius: 100px;
+  background: var(--color-primary);
+  padding: 7px 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.links img{
+  height: 20px;
+  width: auto;
+}

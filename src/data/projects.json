@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Neural Network Models for Cataract Detection",
+    "imageSrc": "projects/project.png",
+    "description": "Enhanced cataract detection with CNNs, RNNs, and VGG16 models to improve early diagnosis",
+    "skills": [
+      {
+        "imageSrc": "skills/python.png",
+        "alt": "Python"
+      },
+      {
+        "imageSrc": "skills/tensorflow.png",
+        "alt": "TensorFlow"
+      },
+      {
+        "imageSrc": "skills/Keras.png",
+        "alt": "Keras"
+      },
+      {
+        "imageSrc": "skills/google-colab.png",
+        "alt": "Google Colab"
+      },
+      {
+        "imageSrc": "skills/gradio.png",
+        "alt": "Gradio"
+      }
+    ],
+    "demo": "https://github.com/juhiikataria/Cataract-Detection",
+    "source": "https://github.com/juhiikataria/Cataract-Detection"
+  },
+  {
+    "title": "Interactive Dashboard for Hotel Data Analysis",
+    "imageSrc": "projects/project.png",
+    "description": "Designed to provide insights into various aspects of hotel room bookings and occupancy.",
+    "skills": [
+      {
+        "imageSrc": "skills/Pandas.png",
+        "alt": "Pandas"
+      },
+      {
+        "imageSrc": "skills/power-bi.png",
+        "alt": "PowerBI"
+      },
+      {
+        "imageSrc": "skills/Excel.png",
+        "alt": "Excel"
+      }
+    ],
+    "demo": "https://github.com/juhiikataria/hotel_mgt_dashboard",
+    "source": "https://github.com/juhiikataria/hotel_mgt_dashboard"
+  },
+  {
+    "title": "Movie Recommendations Dashboard",
+    "imageSrc": "projects/project.png",
+    "description": "An interactive platform to explore popular movies and get tailored recommendations based on user searches.",
+    "skills": [
+      {
+        "imageSrc": "skills/JavaScript.png",
+        "alt": "JavaScript"
+      },
+      {
+        "imageSrc": "skills/api.png",
+        "alt": "The Movie Database (TMDb) API"
+      },
+      {
+        "imageSrc": "skills/html.png",
+        "alt": "HTML"
+      },
+      {
+        "imageSrc": "skills/css.png",
+        "alt": "CSS"
+      }
+    ],
+    "demo": "https://github.com/juhiikataria/Movie-Dashboard",
+    "source": "https://github.com/juhiikataria/Movie-Dashboard"
+  }
+]
